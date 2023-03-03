@@ -35,8 +35,8 @@ a {
 }
 
 .react-player {
-  height: 77vh !important;
   width: 100% !important;
+  height: 77vh !important;
 }
 
 .search-bar{
