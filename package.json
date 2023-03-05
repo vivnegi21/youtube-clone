@@ -1,6 +1,6 @@
 {
   "name": "youtube",
-  "homepage": "./youtube-clone",
+  "homepage": "https://vivnegi21.github.io/youtube-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
