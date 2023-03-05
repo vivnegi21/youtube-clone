@@ -12,7 +12,7 @@ const SearchBar = () => {
     e.preventDefault();
 
     if (searchTerm) {
-      navigate(`/youtube-clone//search/${searchTerm}`);
+      navigate(`/youtube-clone/search/${searchTerm}`);
 
       setSearchTerm('');
     }
@@ -38,11 +38,7 @@ const SearchBar = () => {
         onChange={(e)=> setSearchTerm(e.target.value)}
         />
       <IconButton
-        type='submit'
-        sx={{
-
-        }}
-      
+        type='submit'      
       >
         <Search/>
       </IconButton>
