@@ -1,6 +1,6 @@
 {
   "name": "youtube",
-  "homepage": ".",
+  "homepage": "./youtube-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
